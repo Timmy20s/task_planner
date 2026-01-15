@@ -235,6 +235,13 @@ If you want to add more features later:
 - 🔄 Cloud sync
 - 🗂️ Task sorting options
 
----
+<img width="720" height="1600" alt="Screenshot_20260115_030549" src="https://github.com/user-attachments/assets/39700c7b-56b1-493b-a930-f8c0300064aa" />
+<img width="720" height="1600" alt="Screenshot_20260115_030530" src="https://github.com/user-attachments/assets/70c35355-471c-4b1e-a7f1-91a4a1f9306f" />
+<img width="720" height="1600" alt="Screenshot_20260115_030227" src="https://github.com/user-attachments/assets/39ff7fa8-21a8-44f2-9bbf-c79319a3846f" />
+<img width="720" height="1600" alt="Screenshot_20260115_030126" src="https://github.com/user-attachments/assets/ec1011f3-a4b5-4b8a-87a6-2da8de1d8666" />
+<img width="720" height="1600" alt="Screenshot_20260115_030102" src="https://github.com/user-attachments/assets/a3f4e1d0-30ea-423a-9966-82c6bf0a925e" />
+<img width="720" height="1600" alt="Screenshot_20260115_030047" src="https://github.com/user-attachments/assets/5a709418-a2d2-4613-8968-4cbc7123dc24" />
+<img width="720" height="1600" alt="Screenshot_20260115_025907" src="https://github.com/user-attachments/assets/0d1acf86-61c0-4c66-aca4-69b875a0fa14" />
+<img width="720" height="1600" alt="Screenshot_20260115_025730" src="https://github.com/user-attachments/assets/d9d6533d-ce72-4acc-98c6-d8e2386d63a6" />
+<img width="720" height="1600" alt="Screenshot_20260115_025611" src="https://github.com/user-attachments/assets/4f5860fa-5cf4-499d-845e-7d805b19423f" />
 
-**Built with ❤️ using Flutter & Hive**
